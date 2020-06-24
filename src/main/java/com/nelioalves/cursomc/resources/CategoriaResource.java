@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.resource;
+package com.nelioalves.cursomc.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
